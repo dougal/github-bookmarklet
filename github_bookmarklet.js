@@ -1,6 +1,10 @@
+// Copyright (c) Douglas F Shearer 2008
+// Available under the MIT Licence.
+// Install at: http://douglasfshearer.com/blog/announcing-github-bookmarklet
+
 var query = prompt("Search GitHub.com");
 
-user_search_ary = /^u:(.*)/g.exec(query);
+var user_search_ary = /^u:(.*)/g.exec(query);
 
 if (user_search_ary) {
   window.location = "http://github.com/" + user_search_ary[1];
