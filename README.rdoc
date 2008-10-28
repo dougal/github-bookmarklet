@@ -36,5 +36,5 @@ Douglas F Shearer - http://douglasfshearer.com - http://github.com/dougal
 
 == Future
 
-If you have any suggestions, send me a message on GitHub, or fork the project and throw me a pull-request once you've made you're changes.
+If you have any suggestions, send me a message on GitHub, or fork the project and throw me a pull-request once you've made your changes.
 
