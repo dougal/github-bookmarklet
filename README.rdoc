@@ -10,7 +10,7 @@ I built it to satisfy my need to search GitHub Quickly.
 
 == Install
 
-1. Go to my announcement blog post here:
+1. Go to my announcement blog post here: http://douglasfshearer.com/blog/announcing-github-bookmarklet
 2. Follow the install instructions.
 
 == Usage
@@ -24,10 +24,12 @@ Hitting ESC or Cancel leaves your browser in it's previous state.
 Want to search for a user? Type in 'u:' followed by your query. So for instance to look at Kamal's github account, I would type in:
 
  u:kamal
+
+Hitting Return or OK now takes you straight to the user's Github profile, or shows you a 404 if there is no such user.
  
 == Acknowledgements
 
-- John Gruber for his Bookmarklet formatting script: http://daringfireball.net/2007/03/javascript_bookmarklet_builder 
+- John Gruber for his bookmarklet formatting script: http://daringfireball.net/2007/03/javascript_bookmarklet_builder 
 - The GitHub team for, well, Github: http://github.com
 
 == Credits
@@ -37,4 +39,3 @@ Douglas F Shearer - http://douglasfshearer.com - http://github.com/dougal
 == Future
 
 If you have any suggestions, send me a message on GitHub, or fork the project and throw me a pull-request once you've made your changes.
-
