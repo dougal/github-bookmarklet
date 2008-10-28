@@ -1,0 +1,40 @@
+= Github Bookmarklet
+
+OK, this should really be called the GitHub Search Bookmarklet, but that takes a handy tool and turns it into a mouthful.
+
+== What is it?
+
+A handy little piece of JavaScript that you can save as a bookmark in your browser, and instantly search GitHub projects or users.
+
+I built it to satisfy my need to search GitHub Quickly.
+
+== Install
+
+1. Go to my announcement blog post here:
+2. Follow the install instructions.
+
+== Usage
+
+When you click on the bookmarklet, it'll give you a text prompt. Type in the name of the project you want to search for, and hit return. You'll be taken to the GitHub search page for your query.
+
+Hitting ESC or Cancel leaves your browser in it's previous state.
+
+=== User Macro
+
+Want to search for a user? Type in 'u:' followed by your query. So for instance to look at Kamal's github account, I would type in:
+
+ u:kamal
+ 
+== Acknowledgements
+
+- John Gruber for his Bookmarklet formatting script: http://daringfireball.net/2007/03/javascript_bookmarklet_builder 
+- The GitHub team for, well, Github: http://github.com
+
+== Credits
+
+Douglas F Shearer - http://douglasfshearer.com - http://github.com/dougal
+
+== Future
+
+If you have any suggestions, send me a message on GitHub, or fork the project and throw me a pull-request once you've made you're changes.
+
