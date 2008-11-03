@@ -19,13 +19,19 @@ When you click on the bookmarklet, it'll give you a text prompt. Type in the nam
 
 Hitting ESC or Cancel leaves your browser in it's previous state.
 
-=== User Macro
+=== User Search
 
 Want to search for a user? Type in 'u:' followed by your query. So for instance to look at Kamal's github account, I would type in:
 
  u:kamal
 
 Hitting Return or OK now takes you straight to the user's Github profile, or shows you a 404 if there is no such user.
+ 
+=== Code Search
+
+As for user-search, but use the c: prefix. You can also use any of the GitHub macros as defined on the code-search page: http://github.com/codesearch
+
+ c: badger language:ruby
  
 == Acknowledgements
 
