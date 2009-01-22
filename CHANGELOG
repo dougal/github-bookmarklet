@@ -1,3 +1,8 @@
+2009-01-22
+
+- Added support for repository search.
+- Now making use of the new, better, GitHub search types.
+
 2008-11-03
 
 - Added support for new code-search: http://github.com/codesearch

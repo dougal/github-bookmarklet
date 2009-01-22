@@ -15,23 +15,19 @@ I built it to satisfy my need to search GitHub Quickly.
 
 == Usage
 
-When you click on the bookmarklet, it'll give you a text prompt. Type in the name of the project you want to search for, and hit return. You'll be taken to the GitHub search page for your query.
+When you click on the bookmarklet, it'll give you a text prompt. Type in your search term, and hit return. You'll be taken to the GitHub search page for your query.
 
 Hitting ESC or Cancel leaves your browser in it's previous state.
 
-=== User Search
+=== Search Types.
 
-Want to search for a user? Type in 'u:' followed by your query. So for instance to look at Kamal's github account, I would type in:
+You can narrow your search down to users, repositories or code, with the following macros:
 
  u:kamal
-
-Hitting Return or OK now takes you straight to the user's Github profile, or shows you a 404 if there is no such user.
+ r:cache_money
+ c:foo
  
-=== Code Search
-
-As for user-search, but use the c: prefix. You can also use any of the GitHub macros as defined on the code-search page: http://github.com/codesearch
-
- c: badger language:ruby
+Each of those will result in an appropriate search type.
  
 == Acknowledgements
 
