@@ -4,7 +4,7 @@ OK, this should really be called the GitHub Search Bookmarklet, but that takes a
 
 == What is it?
 
-A handy little piece of JavaScript that you can save as a bookmark in your browser, and instantly search GitHub projects or users.
+A handy little piece of JavaScript that you can save as a bookmark in your browser, and instantly search GitHub.
 
 I built it to satisfy my need to search GitHub Quickly.
 
@@ -18,16 +18,6 @@ I built it to satisfy my need to search GitHub Quickly.
 When you click on the bookmarklet, it'll give you a text prompt. Type in your search term, and hit return. You'll be taken to the GitHub search page for your query.
 
 Hitting ESC or Cancel leaves your browser in it's previous state.
-
-=== Search Types.
-
-You can narrow your search down to users, repositories or code, with the following macros:
-
- u:kamal
- r:cache_money
- c:foo
- 
-Each of those will result in an appropriate search type.
  
 == Acknowledgements
 

@@ -1,3 +1,8 @@
+2009-11-04
+
+- Removed search types due to awesome support for search types on GitHub
+  directly http://github.com/search.
+
 2009-01-22
 
 - Added support for repository search.
