@@ -17,6 +17,8 @@ I built it to satisfy my need to search GitHub Quickly.
 
 When you click on the bookmarklet, it'll give you a text prompt. Type in your search term, and hit return. You'll be taken to the GitHub search page for your query.
 
+If you enter a user/repository path, such as dougal/github-bookmarklet, you will be taken directly to that repository.
+
 Hitting ESC or Cancel leaves your browser in it's previous state.
  
 == Acknowledgements
