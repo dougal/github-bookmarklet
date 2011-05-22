@@ -6,7 +6,7 @@
 var query = prompt("Search GitHub.com");
 var path = "";
 if (query) {
-  if (query.match(/^[\w\-]+\/[\w\-]+$/)) {
+  if (query.match(/^[\w\-]+\/[\w\-]*$/)) {
     path = query;
   }
   else {
